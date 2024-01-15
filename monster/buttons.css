@@ -1,4 +1,4 @@
-.btn {
+.btn, a.btn {
   display: inline-block;
   padding: 6px 12px;
   border: none;
@@ -13,6 +13,7 @@
   background-color: #4caf50;
   color: white;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .btn-outline-primary {
