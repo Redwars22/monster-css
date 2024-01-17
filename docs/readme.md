@@ -8,6 +8,6 @@ To add it to your website, please use this snippet:
 
 `<link rel="stylesheet" href="https://redwars22.github.io/monster-css/monster/monster.css" />`
 
-- [Documentation]()
-- [Components](https://redwars22.github.io/monster-css/example.html)
-- [Source Code](https://github.com/Redwars22/monster-css/blob/main/example.html)
+- [📄 Documentation](https://github.com/Redwars22/monster-css/tree/main/docs)
+- [🧩 omponents](https://redwars22.github.io/monster-css/example.html)
+- [📁 Source Code](https://github.com/Redwars22/monster-css/blob/main/example.html)
