@@ -10,6 +10,9 @@ Here's a table with the default colors used for all elements:
 | danger | #dc3545 |
 | warning | #ffc107 |
 | success | #28a745 |
+| dark | #333333 |
+| black | #000000 |
+| white | #ffffff |
 
 You can also add a background color to any element by using `bg-primary`, for example, and add a foreground with `text-primary`. It should work the same way for the other colors.
 

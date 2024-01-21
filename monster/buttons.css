@@ -75,6 +75,36 @@
   background-color: var(--secondary);
 }
 
+.btn-white {
+  background-color: var(--white);
+}
+
+.btn-outline-white {
+  border: 2px solid var(--white);
+  background-color: rgb(0, 0, 0, 0);
+  color: var(--white);
+}
+
+.btn-dark {
+  background-color: var(--dark);
+}
+
+.btn-outline-dark {
+  border: 2px solid var(--dark);
+  background-color: rgb(0, 0, 0, 0);
+  color: var(--dark);
+}
+
+.btn-black {
+  background-color: var(--black);
+}
+
+.btn-outline-black {
+  border: 2px solid var(--black);
+  background-color: rgb(0, 0, 0, 0);
+  color: var(--black);
+}
+
 .btn:hover,
 .btn:focus {
   filter: contrast(180%);

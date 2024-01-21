@@ -10,6 +10,9 @@ There are six options of background-filled buttons. The color of the label is wh
 - `btn-warning`
 - `btn-danger`
 - `btn-secondary`
+- `btn-dark`
+- `btn-white`
+- `btn-black`
 
 To see what the colors for `primary`, `success`, and other variants are, please refer to the `colors.md` file.
 
@@ -22,5 +25,8 @@ You can also use buttons without a background, that is, with a border and a colo
 - `btn-outline-warning`
 - `btn-outline-danger`
 - `btn-outline-secondary`
+- `btn-outline-dark`
+- `btn-outline-white`
+- `btn-outline-black`
 
 You can see them in action by [clicking here](https://redwars22.github.io/monster-css/example.html).
