@@ -23,11 +23,11 @@
 }
 
 .bg-info {
-    background-color:  var(--infoblue);
+    background-color:  var(--info);
 }
 
 .text-info {
-    color:  var(--infoblue);
+    color:  var(--info);
 }
 
 .bg-warning {

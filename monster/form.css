@@ -51,7 +51,7 @@ input[type="checkbox"]:checked:before {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--primaryblue);
+  background-color: var(--primary);
   border-radius: 4px;
 }
 
@@ -61,6 +61,6 @@ input[type="email"]:focus,
 input[type="tel"]:focus,
 textarea:focus,
 select:focus {
-  border-color: var(--primaryblue);
+  border-color: var(--primary);
   outline: none;
 }
